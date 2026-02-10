@@ -39,10 +39,10 @@ fetal-biometry-detection/
 │   ├── Results/
 │   ├── Report/
 │   └── README.md
-└── README.md                      # This file
+└── README.md                     
 ```
 
-## Quick Start
+
 
 ### Task A: Landmark Detection
 ```bash
@@ -176,7 +176,7 @@ B.E. Biomedical Engineering – PSG College of Technology (2022–2026)
 **Interests:** Medical AI • Ultrasound Imaging • Deep Learning in Healthcare  
 
 📧 fathimanashiba03@gmail.com  
-🔗 https://www.linkedin.com/in/your-linkedin-id  
+🔗 linkedin.com/in/fathima-nashiba 
 
 ---
 
